@@ -1,7 +1,7 @@
 # Hi 👋
 
 - 🔭 I’m currently working on Wordpress plugin.
-- 🌱 I’m currently learning VueJS.
+- 🌱 I’m currently learning VueJS and Symfony.
 - 👯 I’m looking to collaborate on several projects.
 - 🤔 I’m looking for help with VueJS.
 - 💬 Ask me about Wordpress, Prestashop, ...
